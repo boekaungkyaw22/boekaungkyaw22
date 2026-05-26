@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Boe%20Kaung%20Kyaw&fontAlign=50&fontAlignY=40&color=gradient" />
-
 # Backend Engineer ⚙️
 
 Building scalable systems, AI platforms, and cloud-native applications.
