@@ -4,7 +4,7 @@ Building scalable systems, AI platforms, and cloud-native applications.
 
 ```bash
 Experience: 3+ years
-Current Focus: Distributed Systems & AI Infrastructure
+Current Focus: Distributed Systems
 Location: Bangkok, Thailand
 ```
 
@@ -38,6 +38,9 @@ Location: Bangkok, Thailand
 ---
 
 ## 🚀 What I'm Building
+
+### End-to-End Villa Management Platform
+Full-service platform for managing villa operations, including reservations, availability, payments, guest services, partner workflows, and administration.
 
 ### AI Workspace Platform
 Multi-tenant AI-powered enterprise workspace platform with gRPC services and workflow automation.
