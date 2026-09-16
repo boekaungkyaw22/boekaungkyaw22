@@ -1,6 +1,6 @@
 # Boe Kaung Kyaw
 
-Backend engineer based in Bangkok, building scalable systems, AI platforms, and cloud-native applications.
+Backend engineer based in Bangkok, building scalable systems.
 
 I work mainly with Python, Go, FastAPI, PostgreSQL, Docker, and AWS. Currently, I’m exploring distributed systems, Rust, and database internals.
 
